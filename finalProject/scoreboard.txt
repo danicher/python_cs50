@@ -1,0 +1,7 @@
+test1: 19
+test2: 1
+test3: 5
+test4: 23
+allah: 105
+test5: 2
+Daniel: 1
